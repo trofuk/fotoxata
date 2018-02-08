@@ -1,0 +1,65 @@
+03-06-2017 @ 13:51:05 - ---[ New Import ] PHP Memory: 2 GB, WP Memory: 40 MB
+03-06-2017 @ 13:51:05 - Parsing products CSV.
+03-06-2017 @ 13:51:05 - Finished parsing products CSV.
+03-06-2017 @ 13:51:05 - ---
+03-06-2017 @ 13:51:05 - Processing products.
+03-06-2017 @ 13:51:05 - > Row 1 - preparing for merge.
+03-06-2017 @ 13:51:05 - > > Attribute taxonomy "pa_color" does not exist. Adding it. Nicename: color
+03-06-2017 @ 13:51:05 - > > Failed to import term  pa_color
+03-06-2017 @ 13:51:05 - > > Attribute taxonomy "pa_print_side" does not exist. Adding it. Nicename: print_side
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term Двосторонній ID = 29
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term Одностронній ID = 30
+03-06-2017 @ 13:51:05 - > > Attribute taxonomy "pa_size" does not exist. Adding it. Nicename: size
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term L ID = 31
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term M ID = 32
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term S ID = 33
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term XL ID = 34
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term XS ID = 35
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term XXL ID = 36
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term XXXL ID = 37
+03-06-2017 @ 13:51:05 - > &#8220;27&#8221; is not a product.
+03-06-2017 @ 13:51:05 - > Row 2 - preparing for merge.
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term зелений ID = 38
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term синій ID = 39
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term червоний ID = 40
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term чорний ID = 41
+03-06-2017 @ 13:51:05 - > > Raw Term Двосторонній ID = 29
+03-06-2017 @ 13:51:05 - > > Raw Term Одностронній ID = 30
+03-06-2017 @ 13:51:05 - > > Raw Term L ID = 31
+03-06-2017 @ 13:51:05 - > > Raw Term M ID = 32
+03-06-2017 @ 13:51:05 - > > Raw Term S ID = 33
+03-06-2017 @ 13:51:05 - > > Raw Term XL ID = 34
+03-06-2017 @ 13:51:05 - > > Raw Term XS ID = 35
+03-06-2017 @ 13:51:05 - > > Raw Term XXL ID = 36
+03-06-2017 @ 13:51:05 - > > Raw Term XXXL ID = 37
+03-06-2017 @ 13:51:05 - > &#8220;53&#8221; is not a product.
+03-06-2017 @ 13:51:05 - > Row 3 - preparing for merge.
+03-06-2017 @ 13:51:05 - > > Failed to import term  pa_color
+03-06-2017 @ 13:51:05 - > > Raw Term Двосторонній ID = 29
+03-06-2017 @ 13:51:05 - > > Raw Term Одностронній ID = 30
+03-06-2017 @ 13:51:05 - > > Raw Term L ID = 31
+03-06-2017 @ 13:51:05 - > > Raw Term M ID = 32
+03-06-2017 @ 13:51:05 - > > Raw Term S ID = 33
+03-06-2017 @ 13:51:05 - > > Raw Term XL ID = 34
+03-06-2017 @ 13:51:05 - > > Raw Term XS ID = 35
+03-06-2017 @ 13:51:05 - > > Raw Term XXL ID = 36
+03-06-2017 @ 13:51:05 - > > Raw Term XXXL ID = 37
+03-06-2017 @ 13:51:05 - > &#8220;66&#8221; is not a product.
+03-06-2017 @ 13:51:05 - > Row 4 - preparing for merge.
+03-06-2017 @ 13:51:05 - > > Failed to import term  pa_color
+03-06-2017 @ 13:51:05 - > > Failed to import term  pa_print_side
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term 21 x 30 см ID = 43
+03-06-2017 @ 13:51:05 - > > Inserted Raw Term 30 x 40 см ID = 44
+03-06-2017 @ 13:51:05 - > &#8220;79&#8221; is not a product.
+03-06-2017 @ 13:51:05 - > Row 5 - preparing for merge.
+03-06-2017 @ 13:51:05 - > > Failed to import term  pa_color
+03-06-2017 @ 13:51:05 - > > Failed to import term  pa_print_side
+03-06-2017 @ 13:51:05 - > > Raw Term 21 x 30 см ID = 43
+03-06-2017 @ 13:51:05 - > > Raw Term 30 x 40 см ID = 44
+03-06-2017 @ 13:51:05 - > &#8220;83&#8221; is not a product.
+03-06-2017 @ 13:51:05 - > Row 6 - preparing for merge.
+03-06-2017 @ 13:51:05 - > > Failed to import term  pa_color
+03-06-2017 @ 13:51:05 - > > Failed to import term  pa_print_side
+03-06-2017 @ 13:51:05 - > > Failed to import term  pa_size
+03-06-2017 @ 13:51:05 - > &#8220;88&#8221; is not a product.
+03-06-2017 @ 13:51:05 - Finished processing products.
